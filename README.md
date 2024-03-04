@@ -10,6 +10,14 @@ Easiest way to create your own is to use the [Overleaf template](https://www.ove
 
 All fonts used are free and open source.
 
+## Getting Started
+
+To compile:
+
+```bash
+xelatex fileName.tex
+```
+
 ## Dependencies
 
 1. Compiles only with **XeTeX** and required **BibTex** for compiling publications and the .bib filetype.
