@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.3.4)  5 MAR 2024 12:45
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.3.4)  20 MAR 2024 11:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -654,7 +654,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 236.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 271.
+(hyperref)                removing `\\' on input line 276.
 
 [1
 
@@ -677,7 +677,7 @@ Package rerunfilecheck Info: File `PlushCV.out' has not changed.
 Here is how much of TeX's memory you used:
  13464 strings out of 409588
  260932 string characters out of 5773013
- 1945842 words of memory out of 5000000
+ 1946842 words of memory out of 5000000
  35375 multiletter control sequences out of 15000+600000
  578025 words of font info for 99 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
